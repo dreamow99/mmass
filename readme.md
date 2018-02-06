@@ -1,0 +1,1 @@
+Solution for Problem MMASS SPOJ: http://vn.spoj.com/problems/MMASS/
